@@ -1,0 +1,1 @@
+A note-taking app inspired by Google Keep.
